@@ -36,9 +36,8 @@ body {
   }
   
   input[type="submit"] {
-   transform: translate(2.2%);
    padding: 3px;
-   width: 27%;
+   width: 32%;
    margin-top: 1rem;
    font-family: Andale Mono, monospace;
    font-weight: bold;
